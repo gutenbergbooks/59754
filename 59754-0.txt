@@ -1,37 +1,4 @@
-The Project Gutenberg eBook, The Cavaliers of Fortune, by James Grant
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: The Cavaliers of Fortune
-       Or, British Heroes in Foreign Wars
-
-
-Author: James Grant
-
-
-
-Release Date: June 15, 2019  [eBook #59754]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK THE CAVALIERS OF FORTUNE***
-
-
-E-text prepared by Brian Coe, Graeme Mackreth, and the Online Distributed
-Proofreading Team (http://www.pgdp.net) from page images generously made
-available by Internet Archive (https://archive.org)
+*** START OF THE PROJECT GUTENBERG EBOOK 59754 ***
 
 
 
@@ -154,7 +121,7 @@ CONTENTS.
  MARSHAL CLARKE, Duc de Feltre, and Governor of Vienna        192
 
  GENERAL KILMAINE, Commander of Lombardy, and the
- Armée d'Angleterre                                           213
+ ArmÃ©e d'Angleterre                                           213
 
  COUNTS O'REILLY, O'DONNEL, and the Irish in Spain            233
 
@@ -207,7 +174,7 @@ of distinction. They had two children, the eldest of whom, Arthur, was
 soon after his birth enrolled--according to a custom then prevailing
 in the French army--as a private soldier in the company of his
 father. In this capacity he served at the famous siege of Barcelona
-under the Maréchal Duke of Berwick in 1714. His father being an
+under the MarÃ©chal Duke of Berwick in 1714. His father being an
 officer of distinguished merit, and his mother being by blood allied
 to some of the most noble families in France, afforded young Daily
 every opportunity for the improvement of his mind and person; thus at
@@ -230,7 +197,7 @@ his cocked hat, and said:--
 
 "De par le Roi! Soldats, vous reconnoitrez Monsieur de Daily, votre
 capitaine de la compagnie, et vous lui obeirez en tout ce qu'il vous
-ordonnera pour le service du Roi, en cette qualité."
+ordonnera pour le service du Roi, en cette qualitÃ©."
 
 Another ruffle on the drums, the company fell back to its place in the
 line of the regiment of Dillon, and Arthur Dally was formally installed
@@ -332,7 +299,7 @@ Company could furnish; but the whole of the troops did not embark.
 On the 20th February, 1757, the Count de Lally, accompanied by his
 brother Michael, marched to Brest at the head of two battalions; and
 though having only two millions of livres in the military chest,
-embarked on board the ships of the Count d'Aché, who immediately put to
+embarked on board the ships of the Count d'AchÃ©, who immediately put to
 sea; but being driven into port again by contrary winds, the squadron
 was detained until the 2nd of May.
 
@@ -428,7 +395,7 @@ he was grasping, they never denied that he was lavish and liberal when
 the king's service required him by spies to obtain intelligence of the
 strength and designs of the enemy.
 
-The Count d'Aché, Chef d'Escadre, encountered such adverse winds that
+The Count d'AchÃ©, Chef d'Escadre, encountered such adverse winds that
 he was nearly twelve months on his voyage; thus the Chevalier des
 Soupirs, having wearied of waiting at the Mauritius, sailed towards
 the coast of Hindostan, and reaching Pondicherry (or _Puducheri_),
@@ -472,7 +439,7 @@ comprehended the total destruction of every British fortification that
 fell into his power, the ardent and gallant Lally lost not an hour in
 preparing for active operations. Next day, the 26th, he returned on
 board to sail for Cudalore, and in one hour after a powerful British
-fleet assailed the ships of Count d'Aché in the roadstead, where a
+fleet assailed the ships of Count d'AchÃ© in the roadstead, where a
 French 74-gun ship was taken; but the rest fought a passage to the
 seaward, and favoured by the wind, and by superior sailing, anchored
 off Cudalore, a town situated fifteen miles from Pondicherry, on the
@@ -494,7 +461,7 @@ On the 10th he marched back to Pondicherry, and having resolved to
 assail Madras, despatched an officer in a small vessel to his naval
 Chef d'Escadre, with instructions to return and co-operate with him.
 But Admiral Pocock, who commanded the British squadron in those seas,
-had defeated M. d'Aché in two engagements, and by driving him sixty
+had defeated M. d'AchÃ© in two engagements, and by driving him sixty
 miles to the windward, had nearly cut off all communication between him
 and the army. And now the governor of Pondicherry announced that the
 town and its vicinity could not subsist Lally's 4000 Frenchmen for more
@@ -526,7 +493,7 @@ betrayed them to the enemy.
 While sparing no exertions to officer and equip a body of sepoy
 infantry, he seized a Dutch ship, in which he found a sufficient
 quantity of specie to enable him to attack Madras; he then sent a
-message to the Count d'Aché not to leave the coast; but the count
+message to the Count d'AchÃ© not to leave the coast; but the count
 replied, that he required a recruit of seamen, and must return to
 France. Alarmed by such a threat, Lally offered him half of his
 soldiers for the marine service; but deaf alike to threats and
@@ -538,7 +505,7 @@ On summoning to his presence M. de Bussy, who commanded the French
 troops in that extensive region named the Deccan (or Country of the
 South), and M. Moracin, who commanded at the seaport of Masulipatnam,
 he found these officers were somewhat influenced by the same pride and
-disobedience which characterized the conduct of Count d'Aché; and thus,
+disobedience which characterized the conduct of Count d'AchÃ©; and thus,
 before they would obey, and march against Madras, they required that
 Lally should embody an additional thousand men. He immediately ordered
 M. Moracin to return to his post, which the British were approaching.
@@ -552,10 +519,10 @@ overrun by Colonel Clive), and after remaining there at free-quarters
 for five days, marched back to Pondicherry.
 
 The army was now totally destitute of pay, and the commissariat had no
-supply but plunder, while the departure of the Count d'Aché cut off
+supply but plunder, while the departure of the Count d'AchÃ© cut off
 all succour or retreat by the seaward. Though numerous, the troubles
 of Lally were just commencing. Discouraged and disunited by the naval
-disasters of d'Aché, the French officers were alternately fired with
+disasters of d'AchÃ©, the French officers were alternately fired with
 ardour and depressed by despair. M. de Bussy offered to raise 400,000
 livres in three hours, if he was permitted to re-enter the Deccan
 with a body of troops; but being loth to divide his little force, and
@@ -607,7 +574,7 @@ white and furious surf is ever rolling in mountains of foam.
 As he crossed the plains, Lally was briskly cannonaded by the
 field-pieces of the enemy, and lost many officers and men; but,
 advancing steadily, took possession of Ogmore and Meliapore (or San
-Thomé), an old town of the Portuguese, who had built there a large
+ThomÃ©), an old town of the Portuguese, who had built there a large
 church above a grave reputed to be that of St. Thomas, who had been
 murdered by a tribe that dwelt in the vicinity, and whose _right legs_,
 after that sacrilegious act, were, according to Dr. Fryar, swollen to
@@ -636,7 +603,7 @@ body of British infantry, led by Colonel Draper, who behaved with great
 personal bravery.
 
 Shrouded in smoke, he led a charge of bayonets against the Regiment
-de Lorraine; a furious _mêlée_ ensued, and the French must have been
+de Lorraine; a furious _mÃªlÃ©e_ ensued, and the French must have been
 driven back, or cut off, had not Lally sent forward another detachment,
 with some sepoys, to sustain the troops of M. de Rillon. A great
 number of officers and men were shot or bayoneted on both sides; but
@@ -657,7 +624,7 @@ Chef d'Escadre, had arrived at the Isle de France, with four ships
 of war and three millions of livres, destined for the service of the
 French India Company. When about to leave the isle for the roads of
 Pondicherry, he unfortunately met the discomfited fleet of the Count
-d'Aché, who, being his superior officer, prevented him from proceeding,
+d'AchÃ©, who, being his superior officer, prevented him from proceeding,
 and removed the treasure on board his own ship, taking upon himself to
 send only _one_ million of livres to the Count de Lally, in a small
 frigate, which reached Pondicherry on the 21st December, 1758.
@@ -697,7 +664,7 @@ become, that at times, when aggravated by an illness incident to the
 climate, his reports and dispatches are remarkable for containing
 occasional sentences expressive of horror and distraction.
 
-His general chagrin at the conduct of Count d'Aché and others is
+His general chagrin at the conduct of Count d'AchÃ© and others is
 strongly portrayed in the following letter, which he addressed from the
 trenches at Madras to the Governor of Pondicherry, and which had been
 intercepted:--
@@ -707,7 +674,7 @@ intercepted:--
  will remain there till the 20th. The _Expedition_ is just arrived,
  but M. Gerlin is not a man to attack her, for she made him run away
  once before. The _Bristol_, on the other hand, did but just make her
- appearance before San Thomé, and on the vague report of thirteen
+ appearance before San ThomÃ©, and on the vague report of thirteen
  ships coming from Porto Nova, she took fright, and, after landing the
  provisions with which she was laden, she would not stay even long
  enough to take on board twelve of her own guns, which she had lent us
@@ -790,7 +757,7 @@ complete!
 
 He had encountered innumerable difficulties occasioned by the scarcity
 of money and munition, by the wretched supplies of the Government
-commissaries and contractors, by the conduct of Count d'Aché and
+commissaries and contractors, by the conduct of Count d'AchÃ© and
 others, by the sinking of his soldiers' courage before the obstinate
 defence of the besieged; and now, with Kempenfeldt's arrival all hope
 of success vanished. After maintaining a smart cannonade until the
@@ -870,7 +837,7 @@ the treachery of the naval Chef d'Escadre baffled his intentions.
 
 After having a third engagement with the British fleet on the 4th
 September, when with eleven ships of the line he was as usual defeated
-by Admiral Pocock with nine, the Count d'Aché, on the 17th, reached
+by Admiral Pocock with nine, the Count d'AchÃ©, on the 17th, reached
 the roads of Pondicherry, from whence he wrote to the Count de Lally,
 then in position before Vandivash, offering to place at his disposal,
 for the king's service, 800,000 livres in piastres and diamonds, being
@@ -891,7 +858,7 @@ Eyre Coote was pressing the French and their allies along the frontier
 of Bengal, and when the Prince of Vizanapore and other native rajahs
 were in open revolt against King Louis,--the announcement of the Chef
 d'Escadre filled the colonists with fear and confusion. Indignant and
-exasperated, Lally would have left the camp and sought Count d'Aché in
+exasperated, Lally would have left the camp and sought Count d'AchÃ© in
 person; but at that crisis, being so reduced by sickness that he could
 not quit his bed, he sent a deputation of field officers to represent
 the necessity of his remaining in the immediate vicinity of the
@@ -899,7 +866,7 @@ Carnatic coast; of his co-operating with the land forces, and conjuring
 him by all means to suspend the execution of a design so pregnant
 with disaster to the Indian interests of his Most Christian Majesty.
 But nothing that these officers could urge, or their united eloquence
-suggest, would avert the fatal purpose of the Count d'Aché, who put
+suggest, would avert the fatal purpose of the Count d'AchÃ©, who put
 to sea, and once more left the disheartened soldiers of King Louis to
 their fate.
 
@@ -913,16 +880,16 @@ and revolted rajahs. The "protest" was dated on the 17th of September,
 Pondicherry, by Lally himself and the following gentlemen:--
 
 "Duval de Leyrit, Renaut, Barthelmy, Chevalier des Soupirs, Michael
-Lally, Bussy, Du Bois, Carrière, Verdières, Duré, Gaddeville, Du
-Passage, Beausset, Renaut, De la Salle, Guillart, Porcher, Père
-Dominique, _Capucin Prêtre de la Paroisse de Notre Dame des Anges,
-F.S. Lavacier, Supérieur Général des Jesuites Français dans les Indes,
-L. Rathon, Supérieur Général des Missions Etrangères_, Poitier de
+Lally, Bussy, Du Bois, CarriÃ¨re, VerdiÃ¨res, DurÃ©, Gaddeville, Du
+Passage, Beausset, Renaut, De la Salle, Guillart, Porcher, PÃ¨re
+Dominique, _Capucin PrÃªtre de la Paroisse de Notre Dame des Anges,
+F.S. Lavacier, SupÃ©rieur GÃ©nÃ©ral des Jesuites FranÃ§ais dans les Indes,
+L. Rathon, SupÃ©rieur GÃ©nÃ©ral des Missions EtrangÃ¨res_, Poitier de
 Lorme, Duchatel, Audouart, Aimar, Combaut d'Authenil, Goupil, Keisses,
 J.C. Bon, De Wilst, Banal, Rauly, Termelin, Sainte Paul, J.B. Launay,
 Deshayes, Fischer, Du Laurent, Audager du Petit Val, D'Arcy, Medin,
-Dioré, Bertrand, Legris, Miran, Bourville, F. Nicolas, Du Plan, De
-Laval, Borée, D. l'Arché, Bayelleon de Guillette."
+DiorÃ©, Bertrand, Legris, Miran, Bourville, F. Nicolas, Du Plan, De
+Laval, BorÃ©e, D. l'ArchÃ©, Bayelleon de Guillette."
 
 The count had already sailed; but strong currents and adverse winds,
 however, met his fleet, which was driven far to the north; thus the
@@ -951,7 +918,7 @@ that was necessary might have been done; but the loitering marquis spun
 out the time to no less than two-and-forty. While Lally was totally
 unable to account for his absence, a dangerous ferment arose in the
 camp of Prince Bassuletzingue, there being no pay for his soldiers, as
-M. d'Aché's diamonds were yet unsold; and during the delay the British
+M. d'AchÃ©'s diamonds were yet unsold; and during the delay the British
 troops under Colonel Coote (aware that Lally could not begin a campaign
 without cavalry) suddenly made themselves masters of Vandivash on the
 30th November, after having breached the walls. Thus, by the indolence
@@ -1074,7 +1041,7 @@ le Chevalier de Gadville, Lieutenant-Colonel Murphy, three captains,
 five lieutenants, many other officers, and twenty-two pieces of cannon.
 
 Coote lost 260 killed and wounded. Among the former was the gallant
-Brereton. Maréchal Charles Grant, Vicomte de Vaux, affirms that the
+Brereton. MarÃ©chal Charles Grant, Vicomte de Vaux, affirms that the
 losses were equal on both sides.
 
 Covering the foot by the cavalry, Lally conducted his routed forces
@@ -1105,7 +1072,7 @@ by a Bombay detachment, which destroyed the French factory. The English
 had obtained a settlement there from King Jehan Jeer in the year 1020
 of the Hijerah. By sea the operations had been carried on with equal
 vigour. On the 4th September, 1759, an engagement had taken place
-between the fleets of Count d'Aché and Admiral Pocock, who obliged the
+between the fleets of Count d'AchÃ© and Admiral Pocock, who obliged the
 former to sheer off with great loss. In April, the fortress of Karical
 had fallen, and by that time Admirals Pocock and Cornish had united
 their fleets in the roads of Pondicherry, within the gates of which
@@ -1306,7 +1273,7 @@ north, and cross the fire of the northern battery.
 
 A fourth, on the south-west, at 1100 yards' distance, and called
 _Prince William's Battery_, was mounted with two guns and one mortar,
-to destroy the cannon on the redoubt of San Thomé.
+to destroy the cannon on the redoubt of San ThomÃ©.
 
 Lally beheld all these preparations with calmness, and by inspiring his
 soldiers with something of his own fierce ardour, laboured to retard
@@ -1384,7 +1351,7 @@ little band of troops.
 
 Still, however, the siege was pressed, and still the defence went on.
 
-On the 5th January, Coote attacked the redoubt of San Thomé, sword
+On the 5th January, Coote attacked the redoubt of San ThomÃ©, sword
 in hand, at the head of a body of Scottish Highlanders and English
 grenadiers, and won it, thus silencing four 28-pounders; but two days
 afterwards, Lally retook it by 300 grenadiers, from the sepoys who were
@@ -1403,7 +1370,7 @@ was effected, and the cannon of the gallant Lally were silenced or
 dismounted.
 
 In the evening a parley was beat, and four envoys came from the ruined
-walls towards the British trenches. These were Colonel Duré (Durie?) of
+walls towards the British trenches. These were Colonel DurÃ© (Durie?) of
 the French Royal Artillery, Father Lavacer, Superior of the Jesuits,
 and two civilians. These were unprovided by "any authority from the
 Governor," says Vicomte de Vaux; but Colonel Coote, in his dispatch to
@@ -1416,7 +1383,7 @@ frantic obstinacy, and murmuring aloud, also averred that illness,
 pride, and the climate had disordered his imagination; and that it was
 criminal rather than valiant to defend an untenable fortress.
 
-The following were the proposals of Lally, presented by Colonel Duré to
+The following were the proposals of Lally, presented by Colonel DurÃ© to
 Colonel Coote:--
 
  "The troops of the king and Company, by want of provisions, will
@@ -1509,7 +1476,7 @@ hollow-eyed and gaunt--the few survivors of the Indian war:--
 
 In all there were only 1400. One of their first acts was to cut their
 commissary to pieces. Among the officers of the king's artillery was
-Jean Baptiste Louis Romée de l'Isle, the celebrated crystallographer,
+Jean Baptiste Louis RomÃ©e de l'Isle, the celebrated crystallographer,
 who was then secretary to a corps of engineers. The quantity of
 military stores delivered over by Lally to Coote is almost incredible.
 
@@ -1563,7 +1530,7 @@ Major Carnac, with 500 British, 2500 sepoys, and 20,000 blacks, cut the
 vast force of the young prince to pieces, and took prisoner M. Law,
 with sixty French officers.
 
-Soon after the fall of Pondicherry, the French settlement of Mahé,
+Soon after the fall of Pondicherry, the French settlement of MahÃ©,
 on the coast of Malabar, was reduced by Major Hector Munro, of the
 89th Highlanders, who captured there 200 pieces of cannon, and thus
 the whole commerce of the mighty peninsula of India, from the point
@@ -1608,12 +1575,12 @@ committed to his care.
 In vain did this brave and unfortunate officer urge his many services,
 his many wounds, his grey hairs, his health broken by toil, by anxiety,
 and by a torrid clime, in the cause of France. In vain did he urge
-the numerous remonstrances he had sent to Paris, and Count d'Aché's
+the numerous remonstrances he had sent to Paris, and Count d'AchÃ©'s
 detention of M. de Lequille's military chest; that at Madras he had
 resigned a desperate command, which the Chevalier des Soupirs declined
 to accept; in vain was the _protest_ signed in the hall of Fort St.
 Lewis adduced to show how his efforts had been baffled, and rendered
-more than futile, by the insubordination of Count d'Aché; in vain did
+more than futile, by the insubordination of Count d'AchÃ©; in vain did
 he explain how the Marquis de Bussy had loitered in Arcot; that he had
 long and frequently been without pay and without provision for his
 troops; how the Rajah of Mysore had failed in his promises; how his
@@ -1626,7 +1593,7 @@ in India, and immediately after the former had rendered the latter a
 signal service in not taking part with the Nabob of Bengal. The weak
 Government of Louis XV. required a victim to satisfy the people; thus
 his defence was useless. Brigadier-General the Marquis de Bussy and
-Admiral Count d'Aché, whose honour and safety were chiefly interested
+Admiral Count d'AchÃ©, whose honour and safety were chiefly interested
 in his condemnation, were the principal witnesses examined against
 him. He was detained for four years in a close prison, and, according
 to the cruel and barbarous laws then existing in France, "the bequest
@@ -1650,14 +1617,14 @@ his hands, and raising his eyes--
 "My God!" he exclaimed; "oh, my God! is _this the reward_ of forty
 years faithful service as a soldier?"
 
-The interrogatory lasted six hours, and D'Aché and De Bussy were
+The interrogatory lasted six hours, and D'AchÃ© and De Bussy were
 successively examined against him. By nine in the evening the
 examination was over, and the count was re-conducted to the Bastille,
 surrounded by guards and several companies of the watch of Paris.
 
 At six o'clock next morning the judges delivered their opinions, which
 were so various, that the clock of the Conciergerie struck four in the
-afternoon before they came to a conclusion and pronounced their _arrêt_
+afternoon before they came to a conclusion and pronounced their _arrÃªt_
 or decree, which contained a brief recital of the charges against De
 Lally, without specifying the facts on which they were respectively
 founded; but for the reparation of which it was declared that he should
@@ -1668,7 +1635,7 @@ head should be struck from his body on the public scaffold.
 Without emotion the count had heard their sentence, and with the utmost
 resolution prepared to die; yet he was detained, hovering as it were
 between life and death, until the morning of the 9th May, 1766, when
-he was drawn on a hurdle to the _Place de Grève_, and hastily, almost
+he was drawn on a hurdle to the _Place de GrÃ¨ve_, and hastily, almost
 privately, beheaded, with his mouth filled by a wooden gag, to prevent
 him addressing the people--thus adding another to the many barbarous
 judicial murders which disgrace the annals of France.
@@ -2305,7 +2272,7 @@ May, 1812, Hill marched to destroy the forts erected by the French at
 the bridge of Almarez. The 50th, and a wing of the 71st Highlanders,
 formed one column, which was destined to attack Fort Napoleon; Cameron
 with his regiment, and the remainder of the 71st, had orders to support
-the attack, and storm the _tête-du-pont_. Both columns were amply
+the attack, and storm the _tÃªte-du-pont_. Both columns were amply
 provided with scaling-ladders. As the troops descended a _rut_ of
 the sierra, in Indian file, about midnight, Mr. Irvine, a gentleman
 volunteer, left his ranks to obtain a draught of water. This was
@@ -2323,7 +2290,7 @@ ninety-second to return your fire?"
 
 Fort Napoleon was stormed in gallant style. Captain Candler, of the
 50th, was shot through the head; but the French were driven towards
-the _tête-du-pont_. Then Cameron entered it with them pell-mell, with
+the _tÃªte-du-pont_. Then Cameron entered it with them pell-mell, with
 bayonets charged, muskets clubbed, swords and sledge-hammers. But
 the commandant of Fort Ragusa, on the opposite side, cut the pontoon
 bridge, and thus the whole garrison of Fort Napoleon found the deep
@@ -2592,7 +2559,7 @@ Cameron), still holding the pass of Maya with the left wings of the
 guns into action, and thus maintained the fight; but so dreadful was
 the slaughter, that it is said the advancing enemy was actually stopped
 by the heaped-up mass of dead and dying.... The stern valour of the
-92nd would have graced _Thermopylæ_."
+92nd would have graced _ThermopylÃ¦_."
 
 Strange to say, Lieutenant Gordon died at Edinburgh sixteen years
 after, under the hands of a surgeon who was extracting the ball
@@ -2651,7 +2618,7 @@ the road to St. Jean Pied-de-Port, he fought valiantly at the battle
 of St. Pierre. There (Napier relates), at one period of the day, the
 overwhelming cannonade and musketry drove the 92nd in rear of the
 hamlet; however, on being succoured by their old comrades, the 50th,
-and Ashworth's Caçadores, they re-formed behind St. Pierre, and "then
+and Ashworth's CaÃ§adores, they re-formed behind St. Pierre, and "then
 their gallant colonel, Cameron, once more led them down the road,
 with colours flying and pipes playing, resolved to give the shock to
 whatever stood in their way. The 92nd was but a small clump compared to
@@ -2876,7 +2843,7 @@ he died soon after of a broken heart.
 Cameron embarked with his Highlanders at Cork, for Ostend, from whence,
 with eight battalions under his command, viz., the third battalion of
 the Royal Scots; the 28th, 32nd, 42nd, 44th, 79th, 92nd, and third
-battalion of the 95th Rifle corps, he marched, _viâ_ Ghent and Bruges,
+battalion of the 95th Rifle corps, he marched, _viÃ¢_ Ghent and Bruges,
 to Brussels, where, on the 3rd June, 1815, his Highlanders, with the
 brigade to which they belonged--the 5th or Sir Denis Pack's--were
 reviewed by Wellington, then a field-marshal. In the 5th corps were
@@ -3034,7 +3001,7 @@ the coming conflict at Waterloo, he made a rough deal coffin, and in
 this placed the body of his master, brother, and friend--for Cameron
 had been all these three to the poor Highland private; and thus he
 interred him, still in his full uniform, by the side of the King's
-Avenue, on the Ghent road, the Allée Verte. This was on the evening of
+Avenue, on the Ghent road, the AllÃ©e Verte. This was on the evening of
 Saturday, the 17th of June. The body was conveyed to its hastily-made
 tomb, in a common cart, for poor Ewen could afford nothing better; and
 the only persons who accompanied him were the landlord of the billet,
@@ -3071,7 +3038,7 @@ that lonely place the graves lay undisturbed until the month of April,
 1816. In that year the colonel's brother, Captain Peter Cameron, of the
 Balcarris, came to Brussels, accompanied by Ewen M'Millan, who led him
 to the well-remembered place, where the graves lay, near three trees at
-a corner of the Allée Verte. The colonel's remains were exhumed, placed
+a corner of the AllÃ©e Verte. The colonel's remains were exhumed, placed
 within another coffin, and brought to Leith; from whence a king's ship
 conveyed them to his native Lochaber, where a grand Highland funeral
 was prepared.
@@ -3211,7 +3178,7 @@ November.
 
 Sir Edward, in the _Royal George_, 110, lay alongside De Conflans in
 the _Soleil Royale_, 80, which was soon driven on shore and burned.
-He then lay alongside the _Thesée_, and sent her to the bottom by one
+He then lay alongside the _ThesÃ©e_, and sent her to the bottom by one
 broadside. _La Superbe_ shared the same fate; the _Juste_ was sunk
 off the mouth of the Loire; the _Hero_ was burned; and thus M. de
 Conflans was totally defeated. Nothing saved the rest of his fleet from
@@ -4348,7 +4315,7 @@ and after a bloody conflict, was driven towards the Save by the Turks.
 Charles, alarmed for the safety of Austria, ordered Seckendorf and
 Brown to march through Servia, and form a junction with the prince,
 which they immediately did, after dispatching a reinforcement to
-Marshal Kevenhüller. With only 20,000 men they fought a way through
+Marshal KevenhÃ¼ller. With only 20,000 men they fought a way through
 Servia, and made themselves masters of Utzitza, after a short siege,
 and would have taken Zwornick, but for an inundation of the Drina.
 On the 16th of October they encamped on the southern bank of the
@@ -4436,7 +4403,7 @@ at Molowitz, a village in the neighbourhood of Neiss, where a desperate
 battle was fought.
 
 On this inauspicious day--inauspicious for the Austrian cause--General
-Count Brown (or _Braün_, as the King of Prussia names him in his
+Count Brown (or _BraÃ¼n_, as the King of Prussia names him in his
 works) commanded the infantry. The scene of the encounter was within
 a league of the river Neiss, and the ground was mantled with snow to
 the depth of two feet. The Prussian army consisted of twenty-seven
@@ -4497,7 +4464,7 @@ kingdom of Bohemia.
 
 The brave Hungarian nobles now rose in arms, and old Count Palfy
 marched at the head of 30,000 men to relieve Vienna, the Governor of
-which, Marshal Kevenhüller, had only 12,000 men to resist the three
+which, Marshal KevenhÃ¼ller, had only 12,000 men to resist the three
 armies of France, Prussia, and Bavaria, while the Marshals Neuperg and
 Brown covered the roads to Bohemia with 20,000 men, as a protection
 against the kingdom of Bavaria. In all the operations of the Austrians,
@@ -4524,7 +4491,7 @@ on the 6th of June.
 On this spot a pillar was afterwards erected, bearing, in the following
 inscription, an honourable testimony to the valour of the Irish hero:--
 
- "Theresiæ Austriacæ Augustæ Duce Exercitus,
+ "TheresiÃ¦ AustriacÃ¦ AugustÃ¦ Duce Exercitus,
        Carlo Alexandro Lothairingico,
    Septemdecim, superatis hostilibus villis,
  Captoque Deckendorfio, renitendibus undis,
@@ -4837,7 +4804,7 @@ Sabelloni, with 7000 Austrians, made a noble stand against them, from
 nine in the evening till ten the next morning, when General Botta and
 Count Brown hastened to his relief, and the conflict began again with
 renewed fury; and after a terrific cross fire of cannon and musketry,
-and a furious mêlée, in which Spaniard, Frenchman, Swiss, Italian, and
+and a furious mÃªlÃ©e, in which Spaniard, Frenchman, Swiss, Italian, and
 Austrian soldiers were all mingled, with musket, sword and bayonet--no
 man valuing life or limb when compared with the glory of the day--the
 three allies were driven back, leaving 8000 killed, wounded, and
@@ -5264,7 +5231,7 @@ elsewhere.
 
 Lacy next forced the far-famed lines of Perekop, which, till then,
 had been considered impregnable. They extended across the Isthmus,
-from the Euxine to the Palus Mæotis, and had been the labour of 5000
+from the Euxine to the Palus MÃ¦otis, and had been the labour of 5000
 men for many years. The great ditch (from whence we have the name of
 _Perecopz_) was seventy-two feet broad by forty-two feet deep, and the
 rampart was seventy feet in height, from its base to the cope of the
@@ -5370,11 +5337,11 @@ and Munich, she ordered a medal to be struck, having direct reference
 to the war in the Crimea, which was thenceforward to be an independent
 state. On one side of this medal was the legend--
 
- "ANNÆ IVANOWNA, D.G., RUSSLE IMPECUTRIX."
+ "ANNÃ† IVANOWNA, D.G., RUSSLE IMPECUTRIX."
 
 On the other was an eagle, with the words--
 
- "PACE EUROPÆ PROMOTA, TARTARIS, VICTIS, TANAI
+ "PACE EUROPÃ† PROMOTA, TARTARIS, VICTIS, TANAI
                LIBERATO, ANNO 1736."
 
 Marshal Lacy ended his days in honour, and a noble monument was erected
@@ -5417,7 +5384,7 @@ of Prussia, that warlike monarch only pushed on the war with greater
 vigour. In this disastrous contest the activity and vigilance of
 Count Lacy soon recommended him to the notice of Leopold Count Daun,
 a native of Bohemia, and son of Philip Lorenzo, Prince of Tiano, the
-pupil of Kevenhüller; and he improved the good opinion of that great
+pupil of KevenhÃ¼ller; and he improved the good opinion of that great
 soldier by his fascinating manner and courtier-like behaviour. The
 friendship of Daun soon won him the rank of major-general; and as such
 he commanded a brigade in his division, when, in 1757, conformable to
@@ -5899,7 +5866,7 @@ read them, and frankly told him that to grant what he wished was
 impossible. Crushed by this, the Italian retired in desperation, for
 the state of his funds could ill brook delay. Three days elapsed, until
 chancing to find the letter he had obtained so peculiarly at the inn,
-he again presented himself at the levée of Lacy and delivered it. The
+he again presented himself at the levÃ©e of Lacy and delivered it. The
 marshal opened it, and on reading the contents, his face expressed the
 utmost astonishment.
 
@@ -5990,7 +5957,7 @@ armies made incredible exertions to recover it. Then ensued the passage
 of the Var by the Marshal Duke de Belleisle; the storming of Montalbano
 and other places; the investment of Genoa by the Austrians and
 Piedmontese, and other operations of that extensive campaign, in which
-_le Régiment Irlandais d'Ultonie Infanterie_ bore a most prominent
+_le RÃ©giment Irlandais d'Ultonie Infanterie_ bore a most prominent
 part, more so, perhaps, than their enemies relished, till the naval
 victories of the British Admirals Anson and Warren in the East Indian
 Ocean, and those of Fox and Hawke elsewhere, forced Louis XV. and his
@@ -6074,7 +6041,7 @@ Inspector-General of that branch of the service. He was also made
 Inspector-General of the manufactories of arms, cannon, and all the
 munitions of war throughout Spain and the two Indies.
 
-In consequence of an unlooked-for _émeute_ in Barcelona the governor of
+In consequence of an unlooked-for _Ã©meute_ in Barcelona the governor of
 which had not fulfilled his trust, in March, 1789, Lacy was appointed
 to the important and arduous office of Governor and Captain-General of
 the Province of Catalonia. The Catalonians, who had long resisted the
@@ -6090,9 +6057,9 @@ country of his adoption.
 
 He seconded with great energy the measures taken by the Spanish
 Government to prevent the principles of the French revolutionists from
-crossing the Pyrenees. "Et fut reconduire sur la frontière le consul de
-France, qui avoit tenu des propos indiscrets à Barcelone. Par le même
-motif," adds a French writer, "Lacy retenait dans catalogue les emigrés
+crossing the Pyrenees. "Et fut reconduire sur la frontiÃ¨re le consul de
+France, qui avoit tenu des propos indiscrets Ã  Barcelone. Par le mÃªme
+motif," adds a French writer, "Lacy retenait dans catalogue les emigrÃ©s
 Francois."
 
 The pupils of the Royal School of Artillery at Segovia obtained from
@@ -6432,9 +6399,9 @@ grenadier of the Spanish army_.
 Thus perished Louis Lacy, in his forty-second year, one who, more even
 than Riego, had secured, by his patriotism, the Revolution of 1820.
 
-"_Lacy_," says a French writer, "etait doué d'une forte constitution,
-et d'une âme ardent, energique et généreuse. Habile général, intrepide
-dans les dangers, _il s'était distingué par des faits d'armes, et par
+"_Lacy_," says a French writer, "etait douÃ© d'une forte constitution,
+et d'une Ã¢me ardent, energique et gÃ©nÃ©reuse. Habile gÃ©nÃ©ral, intrepide
+dans les dangers, _il s'Ã©tait distinguÃ© par des faits d'armes, et par
 un patriotisme dignes des Grecs et des Romains_!"
 
 FOOTNOTES:
@@ -6517,7 +6484,7 @@ warlike King of Sweden marched along the banks of the river, and
 appeared near the town on the 1st day of April. No troops ever
 presented a finer aspect than the Swedish, as they marched in several
 columns to the investment of Frankfort, the attack on which was
-planned by Sir John Hepburn, of Athelstaneford (afterwards a maréchal
+planned by Sir John Hepburn, of Athelstaneford (afterwards a marÃ©chal
 de camp in France), who then commanded the green brigade of Scots in
 the service of Gustavus. In the army of the latter were no less than
 fifteen thousand Scots at this time.
@@ -6684,7 +6651,7 @@ James Butler, who was then at the court of Ferdinand II., at Vienna,
 was stung to the soul by the tidings that his brother had betrayed a
 post, and he wrote to Walter a letter full of the bitterest reproaches.
 "You have tarnished the lustre of the Imperial arms, as well as the
-name of Butler," he wrote; "and Cæsar's court-martial will make your
+name of Butler," he wrote; "and CÃ¦sar's court-martial will make your
 name a bye-word of reproach."
 
 Walter Butler was grieved by this insolence and unkindness, and
@@ -6697,7 +6664,7 @@ Thirty thousand pounds' worth of plunder, and ten baggage waggons, with
 all the plate of the fugitives, were taken, and all their munitions of
 war; however, they had buried in the earth a great quantity of arms. In
 1850, a labourer, when digging a trench in a field near the outworks of
-old Frankfort, came upon a depôt of old weapons, decaying, and covered
+old Frankfort, came upon a depÃ´t of old weapons, decaying, and covered
 with rust. Among them were 2000 matchlocks, being part of the munition
 concealed by the garrison of Count Schomberg. As soon as his wounds
 permitted him to travel, Walter Butler left Frankfort, for Gustavus
@@ -6789,7 +6756,7 @@ and proposed the health of the shy and cunning John George, Elector of
 Saxony, the enemy of the emperor.
 
 Butler affected astonishment, and said "he would drink to no man's
-prosperity who was the enemy of _Cæsar_."
+prosperity who was the enemy of _CÃ¦sar_."
 
 Pretended high words ensued, and while the unsuspecting friends of
 Wallenstein gazed about them in wonder and perplexity, the doors were
@@ -6913,7 +6880,7 @@ Soon after this great battle he died of a severe illness. The
 descendants of his brother distinguished themselves repeatedly in the
 future wars of the grasping House of Austria, particularly in those
 waged against Frederick the Great, King of Prussia; and there is now
-living in Bohemia an old nobleman named Baron Bütler, who boasts of
+living in Bohemia an old nobleman named Baron BÃ¼tler, who boasts of
 being the fourth in descent from James Butler of Ormond, one of the
 slayers of the great Duke of Friedland.
 
@@ -6943,7 +6910,7 @@ followed to France the abdicated James VII. of Scotland, and II. of
 England; and after serving King Louis as a subaltern officer, died at
 an early age on obtaining the rank of colonel, leaving his son, the
 future general, an orphan, to the care of his uncle, Colonel Shee, who
-was then "Sécretaire des Commandement du Duc d'Orléans," and afterwards
+was then "SÃ©cretaire des Commandement du Duc d'OrlÃ©ans," and afterwards
 Prefect of Strasbourg, and a peer of France. It is strange how well
 fortune favoured all these Irish exiles in the various lands of their
 adoption.
@@ -6964,7 +6931,7 @@ gentleman in the suite of the ambassador.
 It was to the friendship and patronage of the Duke of Orleans that
 Clarke owed these favours, and generally, his rapid advancement in
 the army; and it was to this prince that the hussar regiment of the
-colonel-general belonged, according to a custom of the old _régime_.
+colonel-general belonged, according to a custom of the old _rÃ©gime_.
 
 On his return to France, Clarke applied immediately for active service,
 and on the 5th of February, 1792, was appointed a captain of the first
@@ -7001,7 +6968,7 @@ on the field of battle. He then received the command of three regiments
 of dragoons, which formed the advanced guard of the army of the Rhine.
 
 Soon afterwards we find him exercising in this army the functions of
-_Chef d'Etat-Major Général_; but on the 12th of October, 1793, the
+_Chef d'Etat-Major GÃ©nÃ©ral_; but on the 12th of October, 1793, the
 Commissioners of the National Convention, in virtue of a most unjust
 decree of that tyrannical assembly, deprived him of his rank, as he
 happened to be at that time on their secret list of the _suspected_.
@@ -7080,9 +7047,9 @@ cabinet of Vienna, on receiving their overtures, had already sent the
 Baron Vincent to Vicenza, to confer with General Clarke, who repelled
 with all his energy the advice and interference of Bonaparte; but the
 latter, on being supported by Barras against him, as one trusted by
-Carnot, said plainly to Clarke, "Si vous êtes venu ici pour faire ma
-volonté, je vous verrai avec plaisir; si c'est le contraire vous pouvez
-retourner d'où vous êtes venu."
+Carnot, said plainly to Clarke, "Si vous Ãªtes venu ici pour faire ma
+volontÃ©, je vous verrai avec plaisir; si c'est le contraire vous pouvez
+retourner d'oÃ¹ vous Ãªtes venu."
 
 By this language he made Clarke feel that his patron, Carnot, was
 not secure in office, and that he must prepare other supporters for
@@ -7265,7 +7232,7 @@ and with Lazarus Hoche, a frank, resolute, and zealous republican,
 who, from being a stable-boy and private of the French guards, raised
 himself to one of the highest positions in the army of France. In 1792,
 he was a corporal; in 1793, he was a _general_, commanding the army of
-the Moselle; and in the two subsequent years he subdued La Vendée.
+the Moselle; and in the two subsequent years he subdued La VendÃ©e.
 
 Tone was introduced to Hoche by Clarke, and in his _Memoirs_ he details
 the questions they asked him concerning the state of Ireland; where
@@ -7370,7 +7337,7 @@ For having been more in the palaces than in the camps of Bonaparte, and
 being, moreover, of foreign blood, Clarke was reproached with being
 more of a diplomatist than a soldier by those who were envious of the
 favour shown him by the Emperor. While at Erfurt he caused the Saxon
-grenadiers of Hündt to take arms, and supplied them with ammunition,
+grenadiers of HÃ¼ndt to take arms, and supplied them with ammunition,
 colours, and several pieces of cannon.
 
 On the 27th Napoleon summoned him to Berlin, and appointed him
@@ -7491,7 +7458,7 @@ When once Maria Louisa had left Paris, Clarke, foreseeing its certain
 capitulation, did not take the necessary measures either to defend it
 or to check the progress of the allies. For three days he did not open
 the arsenals to the Parisians, nor would he allow them to transport the
-cannon from the Hôtel des Invalides, and the Ecole Militaire to the
+cannon from the HÃ´tel des Invalides, and the Ecole Militaire to the
 heights about the city; finally he clubbed all the troops of the line
 about Montmartre. "Posterity," says a recent writer, "will decide if
 these measures were correct."
@@ -7582,10 +7549,10 @@ All impartial writers unite in exculpating him from the angry and
 unjust accusation of peculating with the enormous sums which were
 required and absorbed by the re-organization of the French army. But he
 was severely handled by military men for instituting those tribunals
-styled _Les Cours Prévotales_.
+styled _Les Cours PrÃ©votales_.
 
 In June, 1815, Clarke was with Louis XVIII. at Arnouville, and
-while there saved his friend, François Marquis de Lagrange, a
+while there saved his friend, FranÃ§ois Marquis de Lagrange, a
 lieutenant-general who in 1813 commanded the 3rd Regiment of Gardes
 d'Honneur, from great danger, if not from death. The marquis had been
 accused of offering his services to Napoleon, and hastily arrived at
@@ -7600,7 +7567,7 @@ Musketeers.
 The zeal which Clarke now employed in the cause of the house of Bourbon
 was ultimately the means of his downfall. Louis XVIII., who each day
 conceded more and more to the enemies of his dynasty, after bestowing
-upon Clarke the bâton of a Marshal of France, displaced him from
+upon Clarke the bÃ¢ton of a Marshal of France, displaced him from
 office, and appointed Gouvin St. Cyr in his room.
 
 We know that after his dismissal all was changed in the department of
@@ -7681,7 +7648,7 @@ FOOTNOTES:
 
 GENERAL KILMAINE,
 
-COMMANDANT OF LOMBARDY AND GENERAL OF THE ARMÉE D'ANGLETERRE.
+COMMANDANT OF LOMBARDY AND GENERAL OF THE ARMÃ‰E D'ANGLETERRE.
 
 
 Charles Jennings Kilmaine, a gallant and celebrated general in the
@@ -7737,11 +7704,11 @@ to republican France.
 
 He fought with remarkable bravery at the great battle of Gemappes,
 on the 6th November, 1792, and with his hussars repeatedly charged
-the Austrians, driving them _sabre à la main_ along the road that
+the Austrians, driving them _sabre Ã  la main_ along the road that
 leads from Mons to Valenciennes; and so pleased was his general, the
 unfortunate Dumourier, that in the moment of victory he named him
 colonel; but this nomination was not confirmed by the minister of war.
-However, he was soon after gratified by a brevet of maréchal de camp,
+However, he was soon after gratified by a brevet of marÃ©chal de camp,
 which made him, in rank, second only to a lieutenant-general.
 
 He continued to serve with this army, and to be one of its most
@@ -7781,12 +7748,12 @@ had two chargers shot under him.
 Six days of incessant skirmishing succeeded, during which Kilmaine
 never had his boots off, nor returned his sabre once to the scabbard;
 and he displayed the most reckless valour on the 8th of May, in that
-battle fought by Dampierre to deliver Condé.
+battle fought by Dampierre to deliver CondÃ©.
 
 The French were routed with great loss; Dampierre was slain; and on
 Kilmaine as an active cavalry officer devolved the task of covering the
 retreat of the infuriated and disorderly army, which fell back from
-Condé-sur-l'Escaut, which is a barrier town, and was then the nominal
+CondÃ©-sur-l'Escaut, which is a barrier town, and was then the nominal
 lordship of the unfortunate Duke d'Enghien.
 
 On General la Marche succeeding Dampierre, he sent Kilmaine with his
@@ -7801,18 +7768,18 @@ rank and file, and these remained in a disorderly state, without a
 proper chief, and without aim or object--its manoeuvres committed to
 chance or directed by ignorance; for, with the exception of Kilmaine,
 its leaders were destitute of skill, experience, and energy. Quitting
-the camp of Cæsar, they returned to their fortified position at
+the camp of CÃ¦sar, they returned to their fortified position at
 Famars, three miles distant from Valenciennes, the approach to which
 it covered. Here they were attacked on the 23rd of May, driven back,
 and obliged to abandon the city to its own garrison under General
 Ferrand; a success which enabled the allies under the Duke of York
-to lay immediate siege to Condé and to Valenciennes, the two most
+to lay immediate siege to CondÃ© and to Valenciennes, the two most
 important barrier towns upon the northern frontier. While the army of
 the North continued in full retreat towards the Scheldt, the British
 commander-in-chief briskly attacked Valenciennes, which General Ferrand
 first laid in ashes, and then delivered up; his garrison, as the reward
 of their obstinate defence, being permitted to march out by the gate of
-Cambray, on the 28th of July, with all _the honours of war_. Condé had
+Cambray, on the 28th of July, with all _the honours of war_. CondÃ© had
 already fallen on the 10th of the same month.
 
 General Custine, who in the two preceding campaigns had rendered such
@@ -7825,7 +7792,7 @@ early in August, with his division from Ardennes; and now his position
 became almost desperate. In presence of the scaffold erected by the
 ferocious mutineers for all the vanquished generals, and in a camp
 where no suspected person dared to assume the precarious office of
-leader, when pressed upon him, he accepted the bâton provisionally, and
+leader, when pressed upon him, he accepted the bÃ¢ton provisionally, and
 in the meantime said to the representatives who were sent from Paris to
 manage affairs and act as spies upon the army, "that he wished another
 more skilful than himself should take the great responsibility of
@@ -7841,7 +7808,7 @@ and crushing the power of the Convention. After so many levies and
 enrolments, that body had no longer a battalion to spare, and had
 around it only the frothy orators of armed clubs, and the refuse of
 prisons; thus it dared not abandon the capital or retire beyond the
-Loire, for now the men of Poitou, Bretagne, and La Vendée were in arms
+Loire, for now the men of Poitou, Bretagne, and La VendÃ©e were in arms
 under the white banner, and elsewhere the tides of war and politics
 were setting in against them. At this crisis Mayence had capitulated,
 after a three months' bombardment. Toulon was under the cannon of the
@@ -7863,7 +7830,7 @@ the Scheldt: but the secret measures of wily diplomatists had more
 influence then, on events, than the arms of the allied kings.
 
 It appears that, in the second campaign, when the allies were masters
-of Condé and Valenciennes, and saw that the road to Paris was almost
+of CondÃ© and Valenciennes, and saw that the road to Paris was almost
 open to them, the Austrians wished to take their revenge locally for
 the cruel deeds of which they had been spectators in the Camp de
 la Lune; and were more intent upon gratifying this sentiment than
@@ -7904,7 +7871,7 @@ of the fallen Bourbons; and equally so that it was not to restore them
 the Austrians at least made war. It was in _his own name_--not that of
 Louis XVII., king of France and Navarre--their emperor took possession
 of those fortified places and provinces which his armies overran; and
-after he became master of Condé and Valenciennes, he no longer cared to
+after he became master of CondÃ© and Valenciennes, he no longer cared to
 define or form a frontier for those districts of the Netherlands which
 once he proposed to cede to the Prussians; but which Thugut now wished
 to preserve to the descendants of Rudolph of Hapsburg.
@@ -7924,7 +7891,7 @@ This was a very simple question, yet they were fourteen days in
 coming to a conclusion. Though Valenciennes, as already stated, had
 capitulated on the 28th of July, it was not until the 8th of August
 that the Austro-British army was in motion, and its advance guard
-beheld the camp of Cæsar; this on the very day after Kilmaine had
+beheld the camp of CÃ¦sar; this on the very day after Kilmaine had
 wisely evacuated the fortifications and retreated southwards.
 
 It is said that he fully anticipated the march of the combined armies;
@@ -7952,7 +7919,7 @@ shameful nudity!" But the reader must bear in mind that these are the
 opinions of a Frenchman and a sympathizer with the Convention.
 
 Such was the state of matters when Kilmaine, having abandoned the
-untenable camp of Cæsar, and fallen back beyond the Scarpe, a navigable
+untenable camp of CÃ¦sar, and fallen back beyond the Scarpe, a navigable
 river of French Flanders (but still a narrower barrier than the
 Scheldt) prepared again for retreat, and marched towards the Somme,
 another river which falls into the British Channel between Crotoy and
@@ -8042,7 +8009,7 @@ Governolo, along the right bank of the Mincio, but were repulsed, after
 a very brisk cannonade, with the loss of eleven hundred men and five
 pieces of cannon.
 
-"_Le Général Kilmaine_, who commands the two divisions which press the
+"_Le GÃ©nÃ©ral Kilmaine_, who commands the two divisions which press the
 siege of Mantua, remained on the 29th ultimo in his former position,
 and was still in hopes that the enemy would attempt a sortie to carry
 forage into the place; but instead they took up a position before the
@@ -8078,7 +8045,7 @@ at ten o'clock on the morning of the 3rd February, 1797, giving up
 his soldiers as prisoners of war. The following is a translation of
 Kilmaine's brief letter on this important acquisition:--
 
- "Kilmaine, Général de Division and Commandant of Lombardy, to the
+ "Kilmaine, GÃ©nÃ©ral de Division and Commandant of Lombardy, to the
  Minister of War. Milan, 17 Pluviose (Feb. 5), 1797.
 
  "Citizen Minister--I avail myself of a courier which General Bonaparte
@@ -8159,7 +8126,7 @@ at Milan, was a soldier of fortune, and the intimate friend of
 Kilmaine. The story of Acton is rather a singular one.
 
 He was the son of a Jacobite gentleman who had emigrated to France
-and settled at Besançon. An unsuccessful love adventure forced him
+and settled at BesanÃ§on. An unsuccessful love adventure forced him
 to leave that city, at the college of which he was studying physic
 with every prospect of distinction. Repairing to Toulon, he enlisted
 in a battalion of French marines. From this corps he passed into the
@@ -8208,7 +8175,7 @@ and others whose names were to become famous in future wars as the
 marshal dukes of the great military empire.
 
 The brave but blustering Jean Baptist Kleber, who had originally been
-an architect of Strasbourg, commanded the right wing of this _Armée
+an architect of Strasbourg, commanded the right wing of this _ArmÃ©e
 d'Angleterre_, which was to stretch from Calais to the mouth of the
 Scheldt, while another corps assembled at Flushing.
 
@@ -8216,7 +8183,7 @@ Kilmaine commanded the centre.
 
 These forces were partly composed of troops returned from Italy, and
 were all experienced soldiers, the victors of Mantua, Lodi, and Arcola.
-Headed by bands of music, the _étât-majors_ marched through Paris,
+Headed by bands of music, the _Ã©tÃ¢t-majors_ marched through Paris,
 displaying black banners, indicative of a war of extermination, and
 inscribed, "_Descent upon England_--Live the Republic! May Britain
 perish," &c.
@@ -8246,7 +8213,7 @@ The condition of France was then desperate; assignats were at 6500
 livres the louis; she had to maintain a million of men in arms from
 an empty treasury; the ruffian demagogues and savage soldiers of the
 Republic, men steeped to the lips in the blood of women and priests,
-nobles and aristocrats, hardened by the atrocities in La Vendée, and
+nobles and aristocrats, hardened by the atrocities in La VendÃ©e, and
 trained to the war in the campaigns of Austria and Italy, occupied
 every post and place under the unstable government; a rabble of
 brutal ministers occupied the palaces of the fallen line of St. Louis,
@@ -8261,7 +8228,7 @@ the cut of a coat and the massacre of a city.
 In April, Kilmaine repaired to Paris, after having executed, by order
 of the government, a survey of the coasts of France and Holland, then
 reduced to a province of the former; and the chief command of this
-famous Armée d'Angleterre on which the eyes of all Europe were fixed,
+famous ArmÃ©e d'Angleterre on which the eyes of all Europe were fixed,
 and the command of which had been given to the noble Dessaix, the hero
 of Marengo, was now bestowed upon him.
 
@@ -8270,7 +8237,7 @@ Britain, but for Egypt; and that Kilmaine received the command of it,
 not so much for his great military skill, as to deceive our ministry;
 supposing that the name of an Irishman would cause them to believe
 that the armament was destined for Ireland; and so they named him
-General in Chief of the Armée d'Angleterre, which never existed at all.
+General in Chief of the ArmÃ©e d'Angleterre, which never existed at all.
 Unfortunately for this writer, history affords abundant proof to the
 contrary. The number of transports was soon increased to a thousand,
 and all the naval and military resources of Holland were pressed into
@@ -8332,7 +8299,7 @@ in favour of Ireland, died in September, 1797; and Bonaparte, to whom
 Kilmaine, Tone, Shee, and others of the Irish patriots turned, had no
 sympathy with their cause, as all his views were now directed towards
 a warfare in the East. By the beginning of autumn the Directory began
-to break up their boasted Armée d'Angleterre, and withdrew their
+to break up their boasted ArmÃ©e d'Angleterre, and withdrew their
 troops to reinforce their columns on the Rhine. Upon this, Kilmaine
 came anxiously and hastily to Paris to confer with the government and
 the Minister of Marine concerning the embarkation of the troops and
@@ -8365,12 +8332,12 @@ Holland.
 
 In 1799 the Directory appointed him generalissimo of the army of
 Helvetia, as they chose to designate Switzerland; thus reviving the
-ancient name of the people whom Julius Cæsar conquered. The French
+ancient name of the people whom Julius CÃ¦sar conquered. The French
 troops already occupied Lombardy on one side, and the Rhenish provinces
 on the other; thus they never doubted their ability to conquer the
 Swiss and remodel the Helvetic constitution. Kilmaine accepted the
 command with satisfaction, but his failing health compelled him to give
-up his bâton to Massena; and with a sorrow which he could not conceal,
+up his bÃ¢ton to Massena; and with a sorrow which he could not conceal,
 he saw that army march which penetrated into the heart of the Swiss
 mountains, and imposed on their hardy inhabitants a constitution in
 which Bonaparte, under the plausible title of Mediator, secured the
@@ -8593,7 +8560,7 @@ as the Peninsula War, during which, by the unanimous voice of the
 Galicians, he was summoned to the chief command of their valuable and
 extensive province.
 
-During the second operations of Marshal Bessières (Duke of Istria)
+During the second operations of Marshal BessiÃ¨res (Duke of Istria)
 in Spain, the army of Blake--twenty thousand strong--united with the
 ten thousand Castilian recruits of old Don Gregorio de la Cuesta, at
 Benevente in July, 1808, for the purpose of opposing him; but they soon
@@ -8618,11 +8585,11 @@ discovered such talents in the lost battle, that he was appointed
 Governor and Captain-General of the Kingdom of Galicia, and President
 of the Royal Audience.
 
-He retreated towards the mountains, and Bessières then entered the city
+He retreated towards the mountains, and BessiÃ¨res then entered the city
 of Leon.
 
 Meanwhile the Junta of that province and of Castile sided with Blake,
-to whom Marshal Bessières sent twelve hundred of the prisoners taken
+to whom Marshal BessiÃ¨res sent twelve hundred of the prisoners taken
 at Rio Seco; and believing it to be a favourable opportunity to tamper
 with their leaders, he wrote urging them to obey the act of abdication,
 and acknowledge Joseph Bonaparte, in whose name he offered Blake high
@@ -8636,7 +8603,7 @@ with disdain.
 On the 17th September the latter advanced against the enemy with six
 columns, each five thousand strong. Descending from La Montana towards
 the Upper Ebro, he sent one division to menace the French in the Castle
-of Burgos, and turn the flank of Marshal Bessières; he left another
+of Burgos, and turn the flank of Marshal BessiÃ¨res; he left another
 at Villarcayo to preserve a communication with Reynosa and cover his
 retreat. He received supplies from General Broderick, who in his
 despatches complained bitterly that Blake treated him with hauteur, and
@@ -8691,7 +8658,7 @@ front.
 He was attacked at two o'clock on the 10th November by Marshal Victor,
 whose soldiers carried the wood at the point of the bayonet, forced
 his centre, turned his left flank, and he had the mortification to see
-San Romano and Don Luiz de Riquelmé, his two best brigadiers, fall
+San Romano and Don Luiz de RiquelmÃ©, his two best brigadiers, fall
 mortally wounded. His Spaniards were hurled in masses upon each other,
 and utterly routed. Romano's corps were all taken to a man; the rest
 fled through Castile, Leon, Galicia, and Asturia, carrying everywhere
@@ -8819,11 +8786,11 @@ would save Gerona, and with it all Catalonia.
 
 Collecting two thousand mules laden with flour, he sent them with four
 thousand foot and five hundred horse, under Henry O'Donnel and Garcia
-Condé, towards this strong and picturesque little city, which they
+CondÃ©, towards this strong and picturesque little city, which they
 reached after a furious encounter with the enemy during a dark and
 stormy night; but the provisions received did not amount to much more
 than eight days' food for the starving Geronese and their garrison,
-which was encumbered rather than aided by Garcia Condé's reinforcement.
+which was encumbered rather than aided by Garcia CondÃ©'s reinforcement.
 St. Cyr now resolved to seek out Blake and destroy him for ever; but
 rendered wary by misfortune, he retired into the mountains, and thus
 ended his first attempt to relieve the city of Gerona.
@@ -8842,7 +8809,7 @@ the twilight Blake failed to succour him; but Henry O'Donnel, another
 gallant Irish soldier of fortune, succeeded in hewing a passage into
 Gerona with 1000 men and 200 laden mules. Irritated by Blake's second
 attempt to succour Gerona, St. Cyr marched a column to menace his
-communication with the citadel of Hostalric, a depôt of magazines on
+communication with the citadel of Hostalric, a depÃ´t of magazines on
 the Tordera. On this he was forced to retreat, leaving to its fate the
 noble little city of Gerona, which, as its heroic captain, General
 Alvarez, said, "if not succoured again by all Catalonia, will soon be
@@ -8914,7 +8881,7 @@ and proposed to inundate the plains that lie round the black marble
 mountain of Murviedro; but on Suchet invading the province, Blake
 concentrated his ill-armed and undisciplined but brave horde of
 peasantry to meet him. Exclusive of 5000 infantry and 700 Murcian
-horsemen, under O'Mahy, at Cuença, and 2000 men under Bassecour at
+horsemen, under O'Mahy, at CuenÃ§a, and 2000 men under Bassecour at
 Riguena, in September, he had 20,000 foot and 2000 horse; but, as
 a foreigner by name and race, he was unpopular both in Murcia and
 Valencia, "and the regency of which he formed a part was tottering,"
@@ -8923,7 +8890,7 @@ had quashed O'Mahy's command of the Murcian army, and even recalled
 Blake himself; but the order, which did not reach him until he was
 engaged with Suchet, was not obeyed. Meanwhile that part of the Murcian
 army which should have formed a reserve after O'Mahy's division had
-marched for Cuença, fell into the greatest disorder; above 8000 men
+marched for CuenÃ§a, fell into the greatest disorder; above 8000 men
 deserted in a few weeks, and those who remained were exceedingly
 dispirited."
 
@@ -9003,7 +8970,7 @@ over which he had no control, was almost destroyed for ever in Spain.
 
 He was accompanied to the Spanish frontier by the Adjutant-General
 Florestan Pipi, who was then sent to Naples. On entering France
-he was sent to Paris, and from thence to the strong Château de
+he was sent to Paris, and from thence to the strong ChÃ¢teau de
 Vincennes, where he remained a close prisoner until the fall of the
 Imperial Government; but this captivity did not prevent the Cortes
 from appointing him a Counsellor of State when naming the regency.
@@ -9018,7 +8985,7 @@ committee of five generals who were ordered to concert measures for
 defending the kingdom. In the French army which entered Spain in
 that year, under the Marquis of Lauriston (an officer of _Scottish_
 parentage), we find two lieutenant-generals of _Irish_ descent--Count
-Bourke and Viscount O'Donoughue; the Duke of Angoulême was
+Bourke and Viscount O'Donoughue; the Duke of AngoulÃªme was
 General-in-Chief, and to him, the Duke of Berwick and Alba, a Spanish
 grandee of the Stuart blood, gave his adherence. The restoration
 caused by the French intervention under the Marshal Lauriston was
@@ -9030,7 +8997,7 @@ the people in their songs and stories of "the War of Independence."
 
 The military men who had borne arms under him, says a French writer,
 recognised and admitted his positive talent, his great knowledge and
-perspicacité of tactiques; but agreed that he failed in two essential
+perspicacitÃ© of tactiques; but agreed that he failed in two essential
 points--the prompt _coup d'oeil_ which decides at once the fortune of a
 battle, and that art of manner by which it is necessary to excite the
 enthusiasm of the soldier.
@@ -9094,7 +9061,7 @@ he drove back General Regnier and made an attempt to surprise Truxillo
 (the birthplace of Pizarro), which is situated on a mountain. Here he
 was repulsed, and with difficulty effected a retreat to Albuquerque;
 but three months after we find him at Truxillo again, co-operating with
-Don Carlos de España, with whom he cut off the French at Rio Monte.
+Don Carlos de EspaÃ±a, with whom he cut off the French at Rio Monte.
 In May he had lent two thousand infantry and two hundred cannoneers
 to Blake, to enable that officer to conduct the siege of Tarragona,
 receiving in return from Captain Codrington two thousand British
@@ -9208,7 +9175,7 @@ On the 26th September, as related in the memoir of Blake, he led the
 advanced guard in the brilliant attempt to relieve Gerona. On the
 13th October he broke out of the city, sword in hand, hewed a passage
 through the French blockade, and, falling on Sauham's quarters sabre
-_à la main_, forced that general to fly in his shirt, and successfully
+_Ã  la main_, forced that general to fly in his shirt, and successfully
 achieved one of the most daring enterprises of that memorable siege.
 In 1810, on succeeding Blake in command of the Catalonians--an
 appointment bestowed by the provincial Junta, who heard of his high
@@ -9447,7 +9414,7 @@ reign of David I., who succeeded to the throne in 1124. James of
 Loudon, _dominus de eodem_, or of that ilk, obtained a charter of the
 same barony from Richard de Morville, Constable of the Kingdom; _Jacobo
 filio Lambin_, &c., also obtained a charter from William de Morville,
-as _Jacobo de Loudon, terrarum baroniæ de Loudon_. Both these documents
+as _Jacobo de Loudon, terrarum baroniÃ¦ de Loudon_. Both these documents
 were granted during the reign of William the Lion, who succeeded to the
 throne in 1165, and are, says Sir Robert Douglas, a proof that he took
 his sirname from these lands, according to the custom of those early
@@ -9613,7 +9580,7 @@ King of Prussia leaguing together for the partition of the Austrian
 Empire. A French army under the Marshal Dukes de Belleisle and de
 Broglie, entered Germany, where the Bavarian Elector formed a junction
 with them; reduced Lintz, the capital of Upper Austria, and threatened
-Vienna. Kevenhüller recovered Lintz; the battle of Czaslau, in which
+Vienna. KevenhÃ¼ller recovered Lintz; the battle of Czaslau, in which
 the Pandours and Croats charged with such effect and fury was fought;
 Prague was besieged, and all northern Europe found itself engaged in a
 general strife.
@@ -9655,7 +9622,7 @@ the first French Revolution.
 
 This new appointment and its emoluments enabled him to espouse Clara
 de Hagen, the daughter of a brave Hungarian officer who resided at
-Pæsing. He was sincerely attached to this lady, and they had one child,
+PÃ¦sing. He was sincerely attached to this lady, and they had one child,
 a daughter, who died in infancy.
 
 During ten years that he remained in the garrison towns of Croatia
@@ -9673,11 +9640,11 @@ was thus occupied when Madame Loudon entered.
 plans and perpetual studies!"
 
 "Never mind my present labours," said he, cheerfully; "they will be
-of great service to me, my dear Clara, when I obtain the bâton of a
+of great service to me, my dear Clara, when I obtain the bÃ¢ton of a
 field-marshal."
 
 Madame Loudon laughed, for her husband was then eight-and-thirty, and
-the bâton of a marshal seemed yet to be a long way off.
+the bÃ¢ton of a marshal seemed yet to be a long way off.
 
 In 1756 the Seven Years' War was threatened. A league was formed by
 the Court of Vienna for stripping the King of Prussia of his dominions.
@@ -9687,7 +9654,7 @@ on receiving evasive answers from Vienna as to the object of the
 Austrian armaments, prepared for immediate strife.
 
 Anxious for employment, and remembering, perhaps, the manner in which
-Frederick II. had insulted him at his levée in Berlin, the enterprising
+Frederick II. had insulted him at his levÃ©e in Berlin, the enterprising
 spirit of Loudon induced him to visit Vienna and solicit a command
 against Prussia; but having left his regiment without obtaining leave
 of absence, he was on the point of being reprimanded and ordered
@@ -9883,7 +9850,7 @@ defeat of the Prussians was solely attributed to Loudon's skill and
 bravery. On the 12th he had attacked a great convoy, but was repulsed
 by Marshal the Honourable James Keith, with the loss of eighty men,
 among whom was the Prince de Lichenstien, lieutenant-colonel of the
-regiment of Löwenstien. After this Loudon assembled his dispersed
+regiment of LÃ¶wenstien. After this Loudon assembled his dispersed
 troops and took ground in a woody mountain, which was a long quarter
 of a league, German measure, beyond the Prussian right, facing the
 village of Hochkirchen. A marsh separated the flank of Frederick from
@@ -10286,7 +10253,7 @@ and in 1769 he was appointed Commandant-General in Moravia.
 In 1770 he was present at the interview between the Emperor Joseph and
 his old antagonist Frederick the Great of Prussia. Dissembling that
 ungenerous animosity which he had imbibed against the fortunate Loudon,
-Frederick always addressed him as "M. Velt-Maréschal," though he had
+Frederick always addressed him as "M. Velt-MarÃ©schal," though he had
 not attained that rank in full; and when Loudon, with his natural
 reserve, was about to seat himself at the foot of the royal table,--
 
@@ -10309,7 +10276,7 @@ town which occupies an important pass; of Schlukenau, thirty miles
 from Dresden, and towards Lusatia; but the main body of his troops
 he skilfully distributed between Leutmeritz, a well-fortified town;
 Lowositz, in the same circle, but four miles distant from it; Dux and
-Töplitz. The King of Prussia took the field with all his force, to
+TÃ¶plitz. The King of Prussia took the field with all his force, to
 prevent the Emperor from co-operating with Loudon, to whom he opposed
 the column of Prince Henry: and now ensued a campaign full of interest
 only to those who study brilliant manoeuvres and subtle tactics.
@@ -10388,7 +10355,7 @@ During the latter part of his life he had been much afflicted with
 rheumatism, gout, and colic, the fruit of military toil and hardship.
 All these attacked him regularly every spring and autumn.
 
-On the 26th of June he dined with Prince Lichnowski, at Böhmisch
+On the 26th of June he dined with Prince Lichnowski, at BÃ¶hmisch
 Gratzen, and was seized on that night by a fever, from which he
 predicted he would never recover, and about the 6th of July he was in a
 dying state. Observing around his bed many of his old brother officers
@@ -10434,7 +10401,7 @@ struck from his hand by a bomb, and bent so that no armourer could ever
 straighten it.
 
 His remains were enclosed in a double coffin, adorned by gorgeous
-mountings and handles, and were solemnly borne from Böhmisch Gratzen
+mountings and handles, and were solemnly borne from BÃ¶hmisch Gratzen
 to his estate of Hadersdorf, a small town of Lower Austria, near the
 Klein-Kamp, and five miles west of Vienna.
 
@@ -10470,7 +10437,7 @@ Were we to choose a hero for a military romance, he would be Andrew
 O'Reilly, who bore the high reputation of being the first cavalry
 officer in the Austrian service.
 
-This distinguished Irish soldier of fortune, the _last_ of the _éleves_
+This distinguished Irish soldier of fortune, the _last_ of the _Ã©leves_
 of the Lacys and others whose achievements in the third Silesian war
 and the Turkish campaign have already been recorded, obtained the rank
 of General in the Austrian army, Chamberlain, and Commander of the
@@ -10496,7 +10463,7 @@ Klebelsberg, who, in 1831, was President of the Government of Lower
 Austria, were rivals for the hand of the Countess Wuyrlena, a rich
 and beautiful Bohemian heiress; and aware that _both_ could not
 succeed, they determined to solve the difficulty of selection by a
-combat _à l'outrance_. The intended duel was, however, reported to the
+combat _Ã  l'outrance_. The intended duel was, however, reported to the
 authorities, and both O'Reilly and Klebelsberg were placed under close
 arrest by the Director General of the High Police; but, resolved to
 achieve their purpose, they secretly left Vienna, and travelled post
@@ -10698,8 +10665,8 @@ of Clare until its dissolution, thirty-five years after.
 In the preceding year war had been declared between France and Britain
 respecting their mutual territorial claims in North America. The former
 prepared a vast military armament to carry on the strife; and in the
-army formed on the 12th July, 1759, to be led by the Maréchal Princes
-of Condé and Soubise, were the _Irish_ and _Scottish_ Brigades; and
+army formed on the 12th July, 1759, to be led by the MarÃ©chal Princes
+of CondÃ© and Soubise, were the _Irish_ and _Scottish_ Brigades; and
 in the former was the Regiment of Clare, with which young O'Connell
 was serving as a subaltern. From this period, for some time, little is
 known of him, save that he served throughout the Seven Years' War, and
@@ -10888,7 +10855,7 @@ the French monarchy.
 
 The first of the French troops to proffer their loyalty, on this
 occasion, were the Scottish and Irish soldiers of the old Regiment de
-Berwick. The depôt of this corps was then quartered at the strong town
+Berwick. The depÃ´t of this corps was then quartered at the strong town
 of Givet, on the frontiers of France, under the command of Sir Charles
 MacCarthy-Lyragh, who immediately marched his men to Coblentz, and
 joined the battalion. Sir Charles afterwards passed into the British
@@ -10922,7 +10889,7 @@ de Brigade in the Army of the Rhine.
 
 At the same time were condemned, M. Murdoch, a Scotsman in the service
 of the Comte de Montmorin; and W. Newton, an English colonel of the
-Dragoon Regiment de Liberté, and formerly an officer in the Russian
+Dragoon Regiment de LibertÃ©, and formerly an officer in the Russian
 service.
 
 In reduced circumstances O'Connell reached London, where he resided
@@ -11009,7 +10976,7 @@ who remodelled a new army from the wreck of Napoleon's veterans.
 O'Connell lived in tranquillity and honour, a remnant of other days
 and of old romantic sympathies, until 1830, when he was again deprived
 of his French emoluments for his unwavering fidelity to Charles X. and
-the elder branch of the Bourbons. After this he retired to his château
+the elder branch of the Bourbons. After this he retired to his chÃ¢teau
 at Meudon, near Blois, where he died, on the 9th of July, 1833, in the
 ninety-first year of his age, the oldest Colonel of the British army,
 and the senior general of the French.
@@ -11365,7 +11332,7 @@ five columns. "General Macdonald, surrounded on all sides, gave proof
 of his great talents. He received the attack with that courage which
 distinguishes the man of firm character, and by his able dispositions
 entirely disconcerted the enemy." His advanced guard, under Kellerman,
-consisted only of three squadrons of the 19th chasseurs à cheval,
+consisted only of three squadrons of the 19th chasseurs Ã  cheval,
 the first battalion of the 11th regiment, and two pieces of flying
 artillery. This handful of brave fellows routed Mack's first column,
 slew four hundred, and took fifteen pieces of cannon, fifty caissons,
@@ -11469,7 +11436,7 @@ his heart. The Sieur Faitpoult had friends in the Directory; thus the
 firmness of Championnet in expelling him from Naples was styled mutiny
 to the Republic, and he was ordered to quit the peninsula, and resign
 his command to General Macdonald. Poor Championnet was placed under
-arrest; and, relinquishing his bâton to his more fortunate second in
+arrest; and, relinquishing his bÃ¢ton to his more fortunate second in
 command, had to appear before a court-martial at Turin.
 
 With confidence Macdonald accepted this new position, which was one
@@ -11706,7 +11673,7 @@ gardens of the Tuileries ten thousand chosen soldiers on whose faith
 they could depend, and there Augereau, the future Duke of Castiglione,
 joined them.
 
-"M. le Général," said he, embracing Napoleon, "you have not called for
+"M. le GÃ©nÃ©ral," said he, embracing Napoleon, "you have not called for
 _me_, but I have come to join you."
 
 "You are welcome," replied Napoleon.
@@ -11751,7 +11718,7 @@ that, toil, hunger, and cold could inflict.
 
 In the passage of the Alps, when one of his columns, composed of the
 80th Regiment, with some cavalry, artillery, sappers, and guides,
-under Laboissière, attempted to cross the Splugen, in the country
+under LaboissiÃ¨re, attempted to cross the Splugen, in the country
 of the Grisons, a dreadful avalanche suddenly came thundering down
 from the mountains to bar their march, and swept forty-two of the
 10th Dragoons, with their horses, over a precipice. His other columns
@@ -11783,7 +11750,7 @@ exclaiming--
 "My comrades, I would rather perish in the abyss than stoop to turn my
 steps on perils such as these!"
 
-"Vive M. le Général!" cried the soldiers of the 80th. Confidence was
+"Vive M. le GÃ©nÃ©ral!" cried the soldiers of the 80th. Confidence was
 inspired anew; again the muskets were slung, the shovels resumed, and
 after three days of labour, danger, and toil, the passage was achieved,
 and the troops of Macdonald debouched from that terrible gorge, where
@@ -11812,7 +11779,7 @@ for an imperial sceptre.
 
 It was about this time that the famous conspiracy of General Pichegreu
 and Georges Cadoudal, and their correspondence with the Prince of
-Condé, were discovered. In that correspondence Moreau was compromised
+CondÃ©, were discovered. In that correspondence Moreau was compromised
 to a dangerous extent; thus his friend Macdonald was received with
 greater coldness at the Tuileries.
 
@@ -11865,7 +11832,7 @@ grand army of the Emperor before the gates of Vienna.
 
 On the 5th and 6th of July he was at the famous battle of Wagram, where
 he led two divisions of infantry, some of which were battalions of the
-Garde Impériale. With these he advanced under a fire, when two hundred
+Garde ImpÃ©riale. With these he advanced under a fire, when two hundred
 pieces of cannon were engaged on both sides, and when the roar of
 the conflict was the greatest ever heard even by the oldest veteran
 of these warlike armies. Three-fourths of his column perished under
@@ -11897,7 +11864,7 @@ He complimented him before his staff, extolled him in the bulletin, and
 on the field of battle made him at last a Marshal of the Empire.
 
 Of all the French marshals he was the only one who thus received a
-bâton in the field, and soon after he was created Duke of Tarentum,
+bÃ¢ton in the field, and soon after he was created Duke of Tarentum,
 from a town of that name in Naples.
 
 "Among all the marshals of France," says the editor of Bourienne's
@@ -12651,7 +12618,7 @@ crumbled into dust at last!
 
 For his talent in organizing the army of the Loire Macdonald received
 the office of Grand Chancellor of the Legion of Honour, succeeding the
-Abbé de Pradt on the 10th of January, 1816, and on the 3rd of May, in
+AbbÃ© de Pradt on the 10th of January, 1816, and on the 3rd of May, in
 that year, he was appointed Knight Commander of St. Louis.
 
 It is related that, when dining one day at the Tuileries, Charles X.
@@ -12703,7 +12670,7 @@ Scottish blood in my veins."
 
 With great interest he visited the battle-field of Prestonpans, and
 viewed the ground from the Thorntree, where Colonel Gardiner was slain
-by the Highlanders. After being _fêted_ at Hopeton House, he left
+by the Highlanders. After being _fÃªted_ at Hopeton House, he left
 Edinburgh for the Highlands, with the intention of visiting every part
 of the country in which his father had accompanied Prince Charles
 Edward, during their flight and concealment after Culloden.
@@ -12732,7 +12699,7 @@ for the wild mountain-shore of Arisaig; and to a large dinner-party on
 board he made an address expressive of his admiration for the Scottish
 clans, "than whom," said he, "no people, I think, deserve to be more
 esteemed for their national character and uniform good conduct."
-Everywhere he was _fêted_ and welcomed with Highland ardour and
+Everywhere he was _fÃªted_ and welcomed with Highland ardour and
 hospitality, and in many instances by old Highland soldiers and retired
 officers, who had served against him in Holland, Germany, and Spain.
 
@@ -12814,7 +12781,7 @@ father's name and on the rank he won.
 FOOTNOTES:
 
 [Footnote 25: "General Macdonald, who has come forward with so much
-_éclat_ as commander of a French column, is the descendant of a Mr.
+_Ã©clat_ as commander of a French column, is the descendant of a Mr.
 Macdonald of Argyleshire. His uncle is Mr. Macdonald of Kinlochmoidart.
 He preserves his clannish affections, and in the campaign of Pichegreu
 in Flanders and Holland, having command of a brigade which had to press
@@ -14565,7 +14532,7 @@ of the ancient half-moon battery of the castle, his body, in a
 magnificent hearse, drawn by plumed horses, and having six pieces
 of brass cannon, his led charger, his suit of armour, and his many
 trophies, sword, spurs, helmet, and gauntlets, and his general's
-bâton, all borne by officers of rank, and escorted by all the standing
+bÃ¢ton, all borne by officers of rank, and escorted by all the standing
 forces in Edinburgh, with drums muffled, standards craped, and arms
 reversed, was slowly conveyed through the western gate of the city to
 Linlithgowshire, and interred in the family vault of the Dalyells at
@@ -14722,365 +14689,4 @@ THE BROADWAY, LUDGATE.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK THE CAVALIERS OF FORTUNE***
-
-
-******* This file should be named 59754-8.txt or 59754-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/5/9/7/5/59754
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59754 ***
